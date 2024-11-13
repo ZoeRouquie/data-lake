@@ -1,32 +1,56 @@
 import cdsapi
+import pandas as pd
+# Initialize the client
+client = cdsapi.Client()
 
-
-
-dataset = "reanalysis-era5-single-levels"
+dataset = "derived-era5-land-daily-statistics"
 request = {
-    "product_type": ["reanalysis"],
     "variable": [
-        "10m_u_component_of_wind",
-        "10m_v_component_of_wind",
         "2m_dewpoint_temperature",
         "2m_temperature",
-        "mean_sea_level_pressure",
-        "mean_wave_direction",
-        "mean_wave_period",
-        "sea_surface_temperature",
-        "significant_height_of_combined_wind_waves_and_swell",
+        "skin_temperature",
+        "soil_temperature_level_1",
+        "soil_temperature_level_2",
+        "soil_temperature_level_3",
+        "soil_temperature_level_4",
+        "snow_albedo",
+        "snow_cover",
+        "snow_density",
+        "snow_depth",
+        "snow_depth_water_equivalent",
+        "temperature_of_snow_layer",
+        "10m_u_component_of_wind",
+        "10m_v_component_of_wind",
         "surface_pressure",
-        "total_precipitation"
+        "leaf_area_index_high_vegetation",
+        "leaf_area_index_low_vegetation",
+        "forecast_albedo"
     ],
-    "year": ["2023"],
-    "month": ["04"],
-    "day": ["03"],
-    "time": ["08:00"],
-    "data_format": "grib",
-    "download_format": "unarchived",
-    "area": [90, -180, -90, 180]
+    "daily_statistic": "daily_mean",
+    "time_zone": "utc+00:00",
+    "frequency": "1_hourly"
 }
 
-client = cdsapi.Client()
-client.retrieve(dataset, request).download()
 
+accident = pd.read_csv('Road Accident Data.csv')
+accident = accident.head(100)
+accident['Accident Date'] = pd.to_datetime(accident['Accident Date'], errors='coerce')
+
+
+
+
+
+for i, row in accident.iterrows():
+    latitude, longitude = row['Latitude'], row['Longitude']
+    
+    area = [latitude + 0.1, longitude - 0.1, latitude - 0.1, longitude + 0.1]
+    
+    request = request.copy()
+    request["day"] = row['Accident Date'].day
+    request['month'] = row['Accident Date'].month
+    request['year'] = row['Accident Date'].year
+    
+    request["area"] = area
+    
+    # Retrieve data for each location
+    client.retrieve(dataset, request).download(f"data_point_{i}.grib")
