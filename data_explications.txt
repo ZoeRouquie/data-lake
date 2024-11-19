@@ -2,4 +2,4 @@ albedo forecast = taux de réflection du soleil
 données kaggle : 
 https://www.kaggle.com/datasets/nextmillionaire/car-accident-dataset
 
-les autres données ont été prises grâce à l'api de 
+les autres données ont été prises grâce à l'api de CDS 
