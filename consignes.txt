@@ -1,2 +1,8 @@
 - faire des requêtes avec spark 
 - cassandra faire des visualisations 
+
+
+reste a faire :
+relier données meteorologiques avec données 
+accidents en fonction
+ de la latitude longitude et de la date
