@@ -1,662 +1,302 @@
 [
     {
         "AccidentIndex": "2.01E+12",
-        "WeatherData": {
-            "request": {
-                "type": "LatLon",
-                "query": "Lat 51.36 and Lon 1.40",
-                "language": "en",
-                "unit": "m"
-            },
-            "location": {
-                "name": "Margate",
-                "country": "United Kingdom",
-                "region": "Kent",
-                "lat": "51.385",
-                "lon": "1.383",
-                "timezone_id": "Europe/London",
-                "localtime": "2024-11-19 16:47",
-                "localtime_epoch": 1732034820,
-                "utc_offset": "0.0"
-            },
-            "current": {
-                "observation_time": "04:47 PM",
-                "temperature": 4,
-                "weather_code": 116,
-                "weather_icons": [
-                    "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png"
-                ],
-                "weather_descriptions": [
-                    "Partly cloudy"
-                ],
-                "wind_speed": 36,
-                "wind_degree": 343,
-                "wind_dir": "NNW",
-                "pressure": 998,
-                "precip": 0.1,
-                "humidity": 93,
-                "cloudcover": 25,
-                "feelslike": -2,
-                "uv_index": 0,
-                "visibility": 10,
-                "is_day": "no"
-            }
-        }
+        "Date": "2021-06-01",
+        "MaxTemperature": 19.9,
+        "MinTemperature": 12.4,
+        "TotalPrecipitation": 0.0,
+        "MaxWindSpeed": 23.6,
+        "SolarRadiation": 29.64,
+        "DayLengthHours": 16.3
     },
     {
         "AccidentIndex": "200920E008803",
-        "WeatherData": {
-            "request": {
-                "type": "LatLon",
-                "query": "Lat 52.46 and Lon -1.89",
-                "language": "en",
-                "unit": "m"
-            },
-            "location": {
-                "name": "Birmingham",
-                "country": "United Kingdom",
-                "region": "West Midlands",
-                "lat": "52.485",
-                "lon": "-1.862",
-                "timezone_id": "Europe/London",
-                "localtime": "2024-11-19 16:42",
-                "localtime_epoch": 1732034520,
-                "utc_offset": "0.0"
-            },
-            "current": {
-                "observation_time": "04:42 PM",
-                "temperature": 2,
-                "weather_code": 113,
-                "weather_icons": [
-                    "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png"
-                ],
-                "weather_descriptions": [
-                    "Clear"
-                ],
-                "wind_speed": 14,
-                "wind_degree": 327,
-                "wind_dir": "NNW",
-                "pressure": 1002,
-                "precip": 0,
-                "humidity": 100,
-                "cloudcover": 0,
-                "feelslike": -1,
-                "uv_index": 0,
-                "visibility": 10,
-                "is_day": "no"
-            }
-        }
+        "Date": "2021-01-14",
+        "MaxTemperature": 8.2,
+        "MinTemperature": 0.8,
+        "TotalPrecipitation": 11.6,
+        "MaxWindSpeed": 16.0,
+        "SolarRadiation": 0.74,
+        "DayLengthHours": 8.166666666666666
     },
     {
         "AccidentIndex": "200920D177103",
-        "WeatherData": {
-            "request": {
-                "type": "LatLon",
-                "query": "Lat 52.50 and Lon -1.77",
-                "language": "en",
-                "unit": "m"
-            },
-            "location": {
-                "name": "Birmingham",
-                "country": "United Kingdom",
-                "region": "West Midlands",
-                "lat": "52.485",
-                "lon": "-1.862",
-                "timezone_id": "Europe/London",
-                "localtime": "2024-11-19 16:47",
-                "localtime_epoch": 1732034820,
-                "utc_offset": "0.0"
-            },
-            "current": {
-                "observation_time": "04:47 PM",
-                "temperature": 2,
-                "weather_code": 113,
-                "weather_icons": [
-                    "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png"
-                ],
-                "weather_descriptions": [
-                    "Clear"
-                ],
-                "wind_speed": 14,
-                "wind_degree": 327,
-                "wind_dir": "NNW",
-                "pressure": 1002,
-                "precip": 0,
-                "humidity": 100,
-                "cloudcover": 0,
-                "feelslike": -1,
-                "uv_index": 0,
-                "visibility": 10,
-                "is_day": "no"
-            }
-        }
+        "Date": "2021-07-22",
+        "MaxTemperature": 27.9,
+        "MinTemperature": 15.4,
+        "TotalPrecipitation": 0.2,
+        "MaxWindSpeed": 10.4,
+        "SolarRadiation": 23.59,
+        "DayLengthHours": 16.033333333333335
     },
     {
         "AccidentIndex": "2.01E+12",
-        "WeatherData": {
-            "request": {
-                "type": "LatLon",
-                "query": "Lat 53.80 and Lon -1.80",
-                "language": "en",
-                "unit": "m"
-            },
-            "location": {
-                "name": "Bradford",
-                "country": "United Kingdom",
-                "region": "West Yorkshire",
-                "lat": "53.789",
-                "lon": "-1.751",
-                "timezone_id": "Europe/London",
-                "localtime": "2024-11-19 16:53",
-                "localtime_epoch": 1732035180,
-                "utc_offset": "0.0"
-            },
-            "current": {
-                "observation_time": "04:53 PM",
-                "temperature": 1,
-                "weather_code": 116,
-                "weather_icons": [
-                    "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png"
-                ],
-                "weather_descriptions": [
-                    "Partly cloudy"
-                ],
-                "wind_speed": 10,
-                "wind_degree": 296,
-                "wind_dir": "WNW",
-                "pressure": 1001,
-                "precip": 0,
-                "humidity": 69,
-                "cloudcover": 25,
-                "feelslike": -2,
-                "uv_index": 0,
-                "visibility": 10,
-                "is_day": "no"
-            }
-        }
+        "Date": "2022-02-24",
+        "MaxTemperature": 4.6,
+        "MinTemperature": 2.0,
+        "TotalPrecipitation": 4.6,
+        "MaxWindSpeed": 36.1,
+        "SolarRadiation": 7.06,
+        "DayLengthHours": 10.45
     },
     {
         "AccidentIndex": "2.01E+12",
-        "WeatherData": {
-            "request": {
-                "type": "LatLon",
-                "query": "Lat 50.95 and Lon -1.46",
-                "language": "en",
-                "unit": "m"
-            },
-            "location": {
-                "name": "Totton",
-                "country": "United Kingdom",
-                "region": "Hampshire",
-                "lat": "50.920",
-                "lon": "-1.496",
-                "timezone_id": "Europe/London",
-                "localtime": "2024-11-19 16:46",
-                "localtime_epoch": 1732034760,
-                "utc_offset": "0.0"
-            },
-            "current": {
-                "observation_time": "04:46 PM",
-                "temperature": 4,
-                "weather_code": 116,
-                "weather_icons": [
-                    "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png"
-                ],
-                "weather_descriptions": [
-                    "Partly cloudy"
-                ],
-                "wind_speed": 19,
-                "wind_degree": 355,
-                "wind_dir": "N",
-                "pressure": 1000,
-                "precip": 0,
-                "humidity": 87,
-                "cloudcover": 75,
-                "feelslike": 0,
-                "uv_index": 0,
-                "visibility": 10,
-                "is_day": "no"
-            }
-        }
+        "Date": "2021-05-07",
+        "MaxTemperature": 12.3,
+        "MinTemperature": 2.2,
+        "TotalPrecipitation": 0.1,
+        "MaxWindSpeed": 18.4,
+        "SolarRadiation": 20.51,
+        "DayLengthHours": 15.133333333333333
     },
     {
         "AccidentIndex": "201032D342810",
-        "WeatherData": {
-            "request": {
-                "type": "LatLon",
-                "query": "Lat 53.06 and Lon -0.46",
-                "language": "en",
-                "unit": "m"
-            },
-            "location": {
-                "name": "Sleaford",
-                "country": "United Kingdom",
-                "region": "Lincolnshire",
-                "lat": "52.996",
-                "lon": "-0.415",
-                "timezone_id": "Europe/London",
-                "localtime": "2024-11-19 16:48",
-                "localtime_epoch": 1732034880,
-                "utc_offset": "0.0"
-            },
-            "current": {
-                "observation_time": "04:48 PM",
-                "temperature": 2,
-                "weather_code": 116,
-                "weather_icons": [
-                    "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png"
-                ],
-                "weather_descriptions": [
-                    "Partly cloudy"
-                ],
-                "wind_speed": 23,
-                "wind_degree": 319,
-                "wind_dir": "NW",
-                "pressure": 1000,
-                "precip": 0,
-                "humidity": 87,
-                "cloudcover": 75,
-                "feelslike": -3,
-                "uv_index": 0,
-                "visibility": 10,
-                "is_day": "no"
-            }
-        }
+        "Date": "2022-11-09",
+        "MaxTemperature": 12.7,
+        "MinTemperature": 9.0,
+        "TotalPrecipitation": 0.1,
+        "MaxWindSpeed": 28.0,
+        "SolarRadiation": 5.44,
+        "DayLengthHours": 9.016666666666667
     },
     {
         "AccidentIndex": "200901VK30104",
-        "WeatherData": {
-            "request": {
-                "type": "LatLon",
-                "query": "Lat 51.39 and Lon -0.30",
-                "language": "en",
-                "unit": "m"
-            },
-            "location": {
-                "name": "New Malden",
-                "country": "United Kingdom",
-                "region": "Kingston upon Thames, Greater London",
-                "lat": "51.403",
-                "lon": "-0.255",
-                "timezone_id": "Europe/London",
-                "localtime": "2024-11-19 16:47",
-                "localtime_epoch": 1732034820,
-                "utc_offset": "0.0"
-            },
-            "current": {
-                "observation_time": "04:47 PM",
-                "temperature": 5,
-                "weather_code": 116,
-                "weather_icons": [
-                    "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png"
-                ],
-                "weather_descriptions": [
-                    "Partly cloudy"
-                ],
-                "wind_speed": 17,
-                "wind_degree": 326,
-                "wind_dir": "NW",
-                "pressure": 999,
-                "precip": 0,
-                "humidity": 81,
-                "cloudcover": 50,
-                "feelslike": 2,
-                "uv_index": 0,
-                "visibility": 10,
-                "is_day": "no"
-            }
-        }
+        "Date": "2021-04-16",
+        "MaxTemperature": 9.8,
+        "MinTemperature": -1.7,
+        "TotalPrecipitation": 0.0,
+        "MaxWindSpeed": 11.7,
+        "SolarRadiation": 15.57,
+        "DayLengthHours": 13.95
     },
     {
         "AccidentIndex": "2.01E+12",
-        "WeatherData": {
-            "request": {
-                "type": "LatLon",
-                "query": "Lat 51.62 and Lon -4.02",
-                "language": "en",
-                "unit": "m"
-            },
-            "location": {
-                "name": "Swansea",
-                "country": "United Kingdom",
-                "region": "Swansea",
-                "lat": "51.633",
-                "lon": "-3.959",
-                "timezone_id": "Europe/London",
-                "localtime": "2024-11-19 16:46",
-                "localtime_epoch": 1732034760,
-                "utc_offset": "0.0"
-            },
-            "current": {
-                "observation_time": "04:46 PM",
-                "temperature": 3,
-                "weather_code": 116,
-                "weather_icons": [
-                    "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png"
-                ],
-                "weather_descriptions": [
-                    "Partly cloudy"
-                ],
-                "wind_speed": 12,
-                "wind_degree": 24,
-                "wind_dir": "NNE",
-                "pressure": 1003,
-                "precip": 0,
-                "humidity": 93,
-                "cloudcover": 50,
-                "feelslike": 0,
-                "uv_index": 0,
-                "visibility": 10,
-                "is_day": "no"
-            }
-        }
+        "Date": "2022-01-12",
+        "MaxTemperature": 7.3,
+        "MinTemperature": -1.2,
+        "TotalPrecipitation": 0.0,
+        "MaxWindSpeed": 9.2,
+        "SolarRadiation": 4.46,
+        "DayLengthHours": 8.233333333333333
     },
     {
         "AccidentIndex": "201060L130221",
-        "WeatherData": {
-            "request": {
-                "type": "LatLon",
-                "query": "Lat 53.26 and Lon -4.09",
-                "language": "en",
-                "unit": "m"
-            },
-            "location": {
-                "name": "Bangor",
-                "country": "United Kingdom",
-                "region": "Gwynedd",
-                "lat": "53.221",
-                "lon": "-4.136",
-                "timezone_id": "Europe/London",
-                "localtime": "2024-11-19 16:53",
-                "localtime_epoch": 1732035180,
-                "utc_offset": "0.0"
-            },
-            "current": {
-                "observation_time": "04:53 PM",
-                "temperature": 4,
-                "weather_code": 116,
-                "weather_icons": [
-                    "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png"
-                ],
-                "weather_descriptions": [
-                    "Partly cloudy"
-                ],
-                "wind_speed": 18,
-                "wind_degree": 359,
-                "wind_dir": "N",
-                "pressure": 1004,
-                "precip": 0,
-                "humidity": 81,
-                "cloudcover": 25,
-                "feelslike": 0,
-                "uv_index": 0,
-                "visibility": 10,
-                "is_day": "no"
-            }
-        }
+        "Date": "2022-07-17",
+        "MaxTemperature": 27.5,
+        "MinTemperature": 15.5,
+        "TotalPrecipitation": 0.0,
+        "MaxWindSpeed": 24.3,
+        "SolarRadiation": 25.2,
+        "DayLengthHours": 16.4
     },
     {
         "AccidentIndex": "2.01E+12",
-        "WeatherData": {
-            "request": {
-                "type": "LatLon",
-                "query": "Lat 52.55 and Lon -0.72",
-                "language": "en",
-                "unit": "m"
-            },
-            "location": {
-                "name": "Corby",
-                "country": "United Kingdom",
-                "region": "Northamptonshire",
-                "lat": "52.496",
-                "lon": "-0.698",
-                "timezone_id": "Europe/London",
-                "localtime": "2024-11-19 16:42",
-                "localtime_epoch": 1732034520,
-                "utc_offset": "0.0"
-            },
-            "current": {
-                "observation_time": "04:42 PM",
-                "temperature": 2,
-                "weather_code": 122,
-                "weather_icons": [
-                    "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png"
-                ],
-                "weather_descriptions": [
-                    "Overcast"
-                ],
-                "wind_speed": 22,
-                "wind_degree": 334,
-                "wind_dir": "NNW",
-                "pressure": 1000,
-                "precip": 0,
-                "humidity": 93,
-                "cloudcover": 100,
-                "feelslike": -3,
-                "uv_index": 0,
-                "visibility": 10,
-                "is_day": "no"
-            }
-        }
+        "Date": "2022-02-02",
+        "MaxTemperature": 10.8,
+        "MinTemperature": 6.7,
+        "TotalPrecipitation": 0.1,
+        "MaxWindSpeed": 31.3,
+        "SolarRadiation": 3.69,
+        "DayLengthHours": 9.133333333333333
     },
     {
         "AccidentIndex": "201001PY20336",
-        "WeatherData": {
-            "success": false,
-            "error": {
-                "code": 104,
-                "type": "usage_limit_reached",
-                "info": "Your monthly usage limit has been reached. Please upgrade your Subscription Plan."
-            }
-        }
+        "Date": "2022-06-10",
+        "MaxTemperature": 20.7,
+        "MinTemperature": 13.4,
+        "TotalPrecipitation": 0.1,
+        "MaxWindSpeed": 28.0,
+        "SolarRadiation": 22.87,
+        "DayLengthHours": 16.533333333333335
     },
     {
         "AccidentIndex": "2.01E+12",
-        "WeatherData": {
-            "success": false,
-            "error": {
-                "code": 104,
-                "type": "usage_limit_reached",
-                "info": "Your monthly usage limit has been reached. Please upgrade your Subscription Plan."
-            }
-        }
+        "Date": "2022-11-06",
+        "MaxTemperature": 14.2,
+        "MinTemperature": 10.3,
+        "TotalPrecipitation": 21.5,
+        "MaxWindSpeed": 26.8,
+        "SolarRadiation": 1.23,
+        "DayLengthHours": 9.4
     },
     {
         "AccidentIndex": "2010550D33646",
-        "WeatherData": {
-            "success": false,
-            "error": {
-                "code": 104,
-                "type": "usage_limit_reached",
-                "info": "Your monthly usage limit has been reached. Please upgrade your Subscription Plan."
-            }
-        }
+        "Date": "2022-08-04",
+        "MaxTemperature": 20.1,
+        "MinTemperature": 13.9,
+        "TotalPrecipitation": 0.0,
+        "MaxWindSpeed": 21.7,
+        "SolarRadiation": 19.84,
+        "DayLengthHours": 15.15
     },
     {
         "AccidentIndex": "200997NE70403",
-        "WeatherData": {
-            "success": false,
-            "error": {
-                "code": 104,
-                "type": "usage_limit_reached",
-                "info": "Your monthly usage limit has been reached. Please upgrade your Subscription Plan."
-            }
-        }
+        "Date": "2021-03-25",
+        "MaxTemperature": 9.6,
+        "MinTemperature": 4.0,
+        "TotalPrecipitation": 4.2,
+        "MaxWindSpeed": 26.8,
+        "SolarRadiation": 9.17,
+        "DayLengthHours": 12.6
     },
     {
         "AccidentIndex": "201050GN2A024",
-        "WeatherData": {
-            "success": false,
-            "error": {
-                "code": 104,
-                "type": "usage_limit_reached",
-                "info": "Your monthly usage limit has been reached. Please upgrade your Subscription Plan."
-            }
-        }
+        "Date": "2022-08-07",
+        "MaxTemperature": 21.0,
+        "MinTemperature": 13.0,
+        "TotalPrecipitation": 0.0,
+        "MaxWindSpeed": 19.4,
+        "SolarRadiation": 25.94,
+        "DayLengthHours": 14.966666666666667
     },
     {
         "AccidentIndex": "200906F023878",
-        "WeatherData": {
-            "success": false,
-            "error": {
-                "code": 104,
-                "type": "usage_limit_reached",
-                "info": "Your monthly usage limit has been reached. Please upgrade your Subscription Plan."
-            }
-        }
+        "Date": "2021-11-13",
+        "MaxTemperature": 12.3,
+        "MinTemperature": 4.6,
+        "TotalPrecipitation": 0.0,
+        "MaxWindSpeed": 28.1,
+        "SolarRadiation": 4.55,
+        "DayLengthHours": 8.716666666666667
     },
     {
         "AccidentIndex": "2.01E+12",
-        "WeatherData": {
-            "success": false,
-            "error": {
-                "code": 104,
-                "type": "usage_limit_reached",
-                "info": "Your monthly usage limit has been reached. Please upgrade your Subscription Plan."
-            }
-        }
+        "Date": "2022-01-26",
+        "MaxTemperature": 7.4,
+        "MinTemperature": -0.0,
+        "TotalPrecipitation": 0.0,
+        "MaxWindSpeed": 17.7,
+        "SolarRadiation": 5.64,
+        "DayLengthHours": 8.95
     },
     {
         "AccidentIndex": "201045RE52185",
-        "WeatherData": {
-            "success": false,
-            "error": {
-                "code": 104,
-                "type": "usage_limit_reached",
-                "info": "Your monthly usage limit has been reached. Please upgrade your Subscription Plan."
-            }
-        }
+        "Date": "2022-07-07",
+        "MaxTemperature": 23.0,
+        "MinTemperature": 15.0,
+        "TotalPrecipitation": 0.0,
+        "MaxWindSpeed": 21.1,
+        "SolarRadiation": 20.74,
+        "DayLengthHours": 16.4
     },
     {
         "AccidentIndex": "2.01E+12",
-        "WeatherData": {
-            "success": false,
-            "error": {
-                "code": 104,
-                "type": "usage_limit_reached",
-                "info": "Your monthly usage limit has been reached. Please upgrade your Subscription Plan."
-            }
-        }
+        "Date": "2021-12-11",
+        "MaxTemperature": 11.4,
+        "MinTemperature": 2.4,
+        "TotalPrecipitation": 0.9,
+        "MaxWindSpeed": 24.5,
+        "SolarRadiation": 1.16,
+        "DayLengthHours": 8.05
     },
     {
         "AccidentIndex": "2.01E+12",
-        "WeatherData": {
-            "success": false,
-            "error": {
-                "code": 104,
-                "type": "usage_limit_reached",
-                "info": "Your monthly usage limit has been reached. Please upgrade your Subscription Plan."
-            }
-        }
+        "Date": "2021-04-20",
+        "MaxTemperature": 10.2,
+        "MinTemperature": 2.5,
+        "TotalPrecipitation": 0.0,
+        "MaxWindSpeed": 11.1,
+        "SolarRadiation": 19.71,
+        "DayLengthHours": 14.166666666666666
     },
     {
         "AccidentIndex": "2.01E+12",
-        "WeatherData": {
-            "success": false,
-            "error": {
-                "code": 104,
-                "type": "usage_limit_reached",
-                "info": "Your monthly usage limit has been reached. Please upgrade your Subscription Plan."
-            }
-        }
+        "Date": "2021-04-12",
+        "MaxTemperature": 8.8,
+        "MinTemperature": -3.2,
+        "TotalPrecipitation": 0.0,
+        "MaxWindSpeed": 17.4,
+        "SolarRadiation": 20.83,
+        "DayLengthHours": 13.983333333333333
     },
     {
         "AccidentIndex": "2010550D46829",
-        "WeatherData": {
-            "success": false,
-            "error": {
-                "code": 104,
-                "type": "usage_limit_reached",
-                "info": "Your monthly usage limit has been reached. Please upgrade your Subscription Plan."
-            }
-        }
+        "Date": "2022-10-24",
+        "MaxTemperature": 15.7,
+        "MinTemperature": 14.3,
+        "TotalPrecipitation": 7.6,
+        "MaxWindSpeed": 48.8,
+        "SolarRadiation": 6.75,
+        "DayLengthHours": 10.2
     },
     {
         "AccidentIndex": "2.01E+220",
-        "WeatherData": {
-            "success": false,
-            "error": {
-                "code": 104,
-                "type": "usage_limit_reached",
-                "info": "Your monthly usage limit has been reached. Please upgrade your Subscription Plan."
-            }
-        }
+        "Date": "2022-04-14",
+        "MaxTemperature": 16.4,
+        "MinTemperature": 6.1,
+        "TotalPrecipitation": 0.0,
+        "MaxWindSpeed": 9.7,
+        "SolarRadiation": 14.26,
+        "DayLengthHours": 13.816666666666666
     },
     {
         "AccidentIndex": "200922D905443",
-        "WeatherData": {
-            "success": false,
-            "error": {
-                "code": 104,
-                "type": "usage_limit_reached",
-                "info": "Your monthly usage limit has been reached. Please upgrade your Subscription Plan."
-            }
-        }
+        "Date": "2021-10-02",
+        "MaxTemperature": 13.0,
+        "MinTemperature": 7.3,
+        "TotalPrecipitation": 9.0,
+        "MaxWindSpeed": 29.0,
+        "SolarRadiation": 2.17,
+        "DayLengthHours": 11.533333333333333
     },
     {
         "AccidentIndex": "2009160A05120",
-        "WeatherData": {
-            "success": false,
-            "error": {
-                "code": 104,
-                "type": "usage_limit_reached",
-                "info": "Your monthly usage limit has been reached. Please upgrade your Subscription Plan."
-            }
-        }
+        "Date": "2021-11-25",
+        "MaxTemperature": 6.0,
+        "MinTemperature": 1.5,
+        "TotalPrecipitation": 0.0,
+        "MaxWindSpeed": 22.7,
+        "SolarRadiation": 3.61,
+        "DayLengthHours": 8.1
     },
     {
         "AccidentIndex": "2.01E+12",
-        "WeatherData": {
-            "success": false,
-            "error": {
-                "code": 104,
-                "type": "usage_limit_reached",
-                "info": "Your monthly usage limit has been reached. Please upgrade your Subscription Plan."
-            }
-        }
+        "Date": "2022-11-22",
+        "MaxTemperature": 8.3,
+        "MinTemperature": 0.8,
+        "TotalPrecipitation": 1.4,
+        "MaxWindSpeed": 17.6,
+        "SolarRadiation": 2.84,
+        "DayLengthHours": 8.033333333333333
     },
     {
         "AccidentIndex": "2.01E+12",
-        "WeatherData": {
-            "success": false,
-            "error": {
-                "code": 104,
-                "type": "usage_limit_reached",
-                "info": "Your monthly usage limit has been reached. Please upgrade your Subscription Plan."
-            }
-        }
+        "Date": "2022-09-24",
+        "MaxTemperature": 16.9,
+        "MinTemperature": 9.0,
+        "TotalPrecipitation": 0.7,
+        "MaxWindSpeed": 22.1,
+        "SolarRadiation": 12.31,
+        "DayLengthHours": 12.083333333333334
     },
     {
         "AccidentIndex": "200901FH10124",
-        "WeatherData": {
-            "success": false,
-            "error": {
-                "code": 104,
-                "type": "usage_limit_reached",
-                "info": "Your monthly usage limit has been reached. Please upgrade your Subscription Plan."
-            }
-        }
+        "Date": "2021-02-12",
+        "MaxTemperature": 0.4,
+        "MinTemperature": -3.7,
+        "TotalPrecipitation": 0.0,
+        "MaxWindSpeed": 26.3,
+        "SolarRadiation": 8.12,
+        "DayLengthHours": 9.85
     },
     {
         "AccidentIndex": "2.01E+12",
-        "WeatherData": {
-            "success": false,
-            "error": {
-                "code": 104,
-                "type": "usage_limit_reached",
-                "info": "Your monthly usage limit has been reached. Please upgrade your Subscription Plan."
-            }
-        }
+        "Date": "2022-07-12",
+        "MaxTemperature": 25.6,
+        "MinTemperature": 17.8,
+        "TotalPrecipitation": 0.3,
+        "MaxWindSpeed": 13.0,
+        "SolarRadiation": 16.79,
+        "DayLengthHours": 16.3
     },
     {
         "AccidentIndex": "2.01E+12",
-        "WeatherData": {
-            "success": false,
-            "error": {
-                "code": 104,
-                "type": "usage_limit_reached",
-                "info": "Your monthly usage limit has been reached. Please upgrade your Subscription Plan."
-            }
-        }
+        "Date": "2021-04-22",
+        "MaxTemperature": 14.1,
+        "MinTemperature": 3.6,
+        "TotalPrecipitation": 0.0,
+        "MaxWindSpeed": 21.3,
+        "SolarRadiation": 24.65,
+        "DayLengthHours": 14.333333333333334
     }
 ]
