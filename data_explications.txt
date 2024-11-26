@@ -3,4 +3,6 @@ données kaggle :
 https://www.kaggle.com/datasets/nextmillionaire/car-accident-dataset
 
 
-Les données météréologiques ont éré prises sur open méteo data
+Les données météréologiques ont été prises 
+à l'aide de l'API de open méteo data
+
