@@ -1,8 +1,10 @@
-- faire des requêtes avec spark 
-- cassandra faire des visualisations 
+1)  Extraction et traintement des données via Kaggle et l'API météréologiques (weather-data-extractions)
+-> Kafka? 
+2)  Convertion en format parquet des données json et csv
+3)  Utilisation de spark pour combiner les deux sources de données
+4)  Implémentation de Machine Learning 
+5) real time dashboard with Grafana
 
 
-reste a faire :
-relier données meteorologiques avec données 
-accidents en fonction
- de la latitude longitude et de la date
+
+

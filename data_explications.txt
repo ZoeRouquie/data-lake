@@ -2,4 +2,8 @@ albedo forecast = taux de réflection du soleil
 données kaggle : 
 https://www.kaggle.com/datasets/nextmillionaire/car-accident-dataset
 
-les autres données ont été prises grâce à l'api de 
+
+Les données météréologiques ont été prises 
+à l'aide de l'API de open méteo data: https://archive-api.open-meteo.com/v1/era5
+
+
