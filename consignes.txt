@@ -1,2 +1,0 @@
-- faire des requêtes avec spark 
-- cassandra faire des visualisations 
