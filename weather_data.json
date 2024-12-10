@@ -3870,6 +3870,26 @@
         "DayLengthHours": 7.6
     },
     {
+        "AccidentIndex": "200904EN09104",
+        "Date": "2021-11-04",
+        "MaxTemperature": 7.0,
+        "MinTemperature": 0.6,
+        "TotalPrecipitation": 0.0,
+        "MaxWindSpeed": 14.3,
+        "SolarRadiation": 6.33,
+        "DayLengthHours": 9.233333333333333
+    },
+    {
+        "AccidentIndex": "201043R023100",
+        "Date": "2022-10-02",
+        "MaxTemperature": 17.8,
+        "MinTemperature": 10.0,
+        "TotalPrecipitation": 0.9,
+        "MaxWindSpeed": 16.6,
+        "SolarRadiation": 10.14,
+        "DayLengthHours": 11.55
+    },
+    {
         "AccidentIndex": "200943P303079",
         "Date": "2021-07-24",
         "MaxTemperature": 20.0,
@@ -3928,6 +3948,16 @@
         "MaxWindSpeed": 30.6,
         "SolarRadiation": 3.62,
         "DayLengthHours": 8.333333333333334
+    },
+    {
+        "AccidentIndex": "200901KF60415",
+        "Date": "2021-08-03",
+        "MaxTemperature": 19.8,
+        "MinTemperature": 11.4,
+        "TotalPrecipitation": 1.1,
+        "MaxWindSpeed": 11.4,
+        "SolarRadiation": 18.77,
+        "DayLengthHours": 15.3
     },
     {
         "AccidentIndex": "2.01E+12",
@@ -10370,6 +10400,16 @@
         "DayLengthHours": 10.816666666666666
     },
     {
+        "AccidentIndex": "2.01E+12",
+        "Date": "2021-05-15",
+        "MaxTemperature": 12.9,
+        "MinTemperature": 7.8,
+        "TotalPrecipitation": 4.9,
+        "MaxWindSpeed": 16.4,
+        "SolarRadiation": 12.66,
+        "DayLengthHours": 15.883333333333333
+    },
+    {
         "AccidentIndex": "201043P030110",
         "Date": "2022-11-03",
         "MaxTemperature": 11.8,
@@ -10418,6 +10458,16 @@
         "MaxWindSpeed": 10.6,
         "SolarRadiation": 15.45,
         "DayLengthHours": 14.15
+    },
+    {
+        "AccidentIndex": "200901CW10445",
+        "Date": "2021-03-11",
+        "MaxTemperature": 11.1,
+        "MinTemperature": 4.9,
+        "TotalPrecipitation": 1.4,
+        "MaxWindSpeed": 46.7,
+        "SolarRadiation": 9.52,
+        "DayLengthHours": 11.583333333333334
     },
     {
         "AccidentIndex": "201006F034463",
@@ -10860,6 +10910,16 @@
         "DayLengthHours": 11.366666666666667
     },
     {
+        "AccidentIndex": "200932C014509",
+        "Date": "2021-01-20",
+        "MaxTemperature": 10.9,
+        "MinTemperature": 8.9,
+        "TotalPrecipitation": 6.6,
+        "MaxWindSpeed": 44.5,
+        "SolarRadiation": 1.19,
+        "DayLengthHours": 8.316666666666666
+    },
+    {
         "AccidentIndex": "2.01E+12",
         "Date": "2021-02-05",
         "MaxTemperature": 8.0,
@@ -11048,6 +11108,16 @@
         "MaxWindSpeed": 27.7,
         "SolarRadiation": 7.96,
         "DayLengthHours": 10.016666666666667
+    },
+    {
+        "AccidentIndex": "201043W225060",
+        "Date": "2022-06-30",
+        "MaxTemperature": 18.1,
+        "MinTemperature": 11.2,
+        "TotalPrecipitation": 6.5,
+        "MaxWindSpeed": 17.5,
+        "SolarRadiation": 17.51,
+        "DayLengthHours": 16.55
     },
     {
         "AccidentIndex": "200937L017590",
@@ -11630,6 +11700,16 @@
         "DayLengthHours": 11.166666666666666
     },
     {
+        "AccidentIndex": "2009170H11619",
+        "Date": "2021-11-06",
+        "MaxTemperature": 12.9,
+        "MinTemperature": 9.1,
+        "TotalPrecipitation": 1.9,
+        "MaxWindSpeed": 36.2,
+        "SolarRadiation": 2.27,
+        "DayLengthHours": 9.0
+    },
+    {
         "AccidentIndex": "2.01E+12",
         "Date": "2022-04-21",
         "MaxTemperature": 15.9,
@@ -11748,6 +11828,16 @@
         "MaxWindSpeed": 19.7,
         "SolarRadiation": 19.3,
         "DayLengthHours": 16.3
+    },
+    {
+        "AccidentIndex": "200943W077099",
+        "Date": "2021-09-13",
+        "MaxTemperature": 19.1,
+        "MinTemperature": 13.2,
+        "TotalPrecipitation": 0.4,
+        "MaxWindSpeed": 17.1,
+        "SolarRadiation": 6.8,
+        "DayLengthHours": 12.783333333333333
     },
     {
         "AccidentIndex": "201045GU52655",
@@ -18200,6 +18290,16 @@
         "DayLengthHours": 14.933333333333334
     },
     {
+        "AccidentIndex": "200901CW11213",
+        "Date": "2021-06-17",
+        "MaxTemperature": 22.0,
+        "MinTemperature": 17.1,
+        "TotalPrecipitation": 10.8,
+        "MaxWindSpeed": 14.4,
+        "SolarRadiation": 11.44,
+        "DayLengthHours": 16.633333333333333
+    },
+    {
         "AccidentIndex": "201001SX20790",
         "Date": "2022-07-20",
         "MaxTemperature": 25.3,
@@ -19158,6 +19258,16 @@
         "MaxWindSpeed": 51.6,
         "SolarRadiation": 1.25,
         "DayLengthHours": 8.683333333333334
+    },
+    {
+        "AccidentIndex": "201001YE80925",
+        "Date": "2022-12-31",
+        "MaxTemperature": 12.8,
+        "MinTemperature": 9.4,
+        "TotalPrecipitation": 8.6,
+        "MaxWindSpeed": 34.0,
+        "SolarRadiation": 0.59,
+        "DayLengthHours": 7.9
     },
     {
         "AccidentIndex": "200945RE33715",
@@ -20778,6 +20888,16 @@
         "MaxWindSpeed": 35.0,
         "SolarRadiation": 4.44,
         "DayLengthHours": 9.116666666666667
+    },
+    {
+        "AccidentIndex": "2009400D01597",
+        "Date": "2021-06-12",
+        "MaxTemperature": 20.8,
+        "MinTemperature": 12.7,
+        "TotalPrecipitation": 0.0,
+        "MaxWindSpeed": 14.5,
+        "SolarRadiation": 24.85,
+        "DayLengthHours": 16.65
     },
     {
         "AccidentIndex": "20103102C3286",
@@ -22880,6 +23000,16 @@
         "DayLengthHours": 16.95
     },
     {
+        "AccidentIndex": "200901HT20578",
+        "Date": "2021-09-11",
+        "MaxTemperature": 21.2,
+        "MinTemperature": 13.7,
+        "TotalPrecipitation": 0.1,
+        "MaxWindSpeed": 19.7,
+        "SolarRadiation": 10.94,
+        "DayLengthHours": 12.916666666666666
+    },
+    {
         "AccidentIndex": "200901ZT89003",
         "Date": "2021-12-31",
         "MaxTemperature": 14.2,
@@ -23268,6 +23398,16 @@
         "MaxWindSpeed": 27.1,
         "SolarRadiation": 21.87,
         "DayLengthHours": 16.766666666666666
+    },
+    {
+        "AccidentIndex": "200920L060801",
+        "Date": "2021-04-20",
+        "MaxTemperature": 16.1,
+        "MinTemperature": 2.5,
+        "TotalPrecipitation": 0.1,
+        "MaxWindSpeed": 9.3,
+        "SolarRadiation": 15.6,
+        "DayLengthHours": 14.283333333333333
     },
     {
         "AccidentIndex": "200943P024089",
@@ -24648,6 +24788,16 @@
         "MaxWindSpeed": 19.3,
         "SolarRadiation": 15.06,
         "DayLengthHours": 12.55
+    },
+    {
+        "AccidentIndex": "2.01E+12",
+        "Date": "2022-10-23",
+        "MaxTemperature": 15.8,
+        "MinTemperature": 11.7,
+        "TotalPrecipitation": 7.3,
+        "MaxWindSpeed": 23.9,
+        "SolarRadiation": 3.57,
+        "DayLengthHours": 10.1
     },
     {
         "AccidentIndex": "201020J010730",
@@ -26040,6 +26190,16 @@
         "DayLengthHours": 15.516666666666667
     },
     {
+        "AccidentIndex": "201014A106010",
+        "Date": "2022-07-10",
+        "MaxTemperature": 27.6,
+        "MinTemperature": 12.6,
+        "TotalPrecipitation": 0.0,
+        "MaxWindSpeed": 13.8,
+        "SolarRadiation": 28.23,
+        "DayLengthHours": 16.7
+    },
+    {
         "AccidentIndex": "200911SK15619",
         "Date": "2021-06-22",
         "MaxTemperature": 16.0,
@@ -26208,6 +26368,16 @@
         "MaxWindSpeed": 18.7,
         "SolarRadiation": 2.75,
         "DayLengthHours": 7.983333333333333
+    },
+    {
+        "AccidentIndex": "200904BC09078",
+        "Date": "2021-03-19",
+        "MaxTemperature": 11.8,
+        "MinTemperature": 6.1,
+        "TotalPrecipitation": 0.1,
+        "MaxWindSpeed": 15.2,
+        "SolarRadiation": 6.31,
+        "DayLengthHours": 12.116666666666667
     },
     {
         "AccidentIndex": "2.01E+12",
@@ -27420,6 +27590,16 @@
         "DayLengthHours": 15.166666666666666
     },
     {
+        "AccidentIndex": "20093102C2561",
+        "Date": "2021-09-26",
+        "MaxTemperature": 21.3,
+        "MinTemperature": 14.8,
+        "TotalPrecipitation": 0.3,
+        "MaxWindSpeed": 23.7,
+        "SolarRadiation": 10.81,
+        "DayLengthHours": 11.916666666666666
+    },
+    {
         "AccidentIndex": "200905FF31257",
         "Date": "2021-03-06",
         "MaxTemperature": 5.7,
@@ -27778,6 +27958,16 @@
         "MaxWindSpeed": 24.1,
         "SolarRadiation": 5.56,
         "DayLengthHours": 9.666666666666666
+    },
+    {
+        "AccidentIndex": "200901HT20839",
+        "Date": "2021-12-24",
+        "MaxTemperature": 9.8,
+        "MinTemperature": 7.1,
+        "TotalPrecipitation": 16.7,
+        "MaxWindSpeed": 14.8,
+        "SolarRadiation": 1.38,
+        "DayLengthHours": 7.833333333333333
     },
     {
         "AccidentIndex": "200901WW50748",
@@ -28158,6 +28348,16 @@
         "MaxWindSpeed": 38.5,
         "SolarRadiation": 3.86,
         "DayLengthHours": 10.6
+    },
+    {
+        "AccidentIndex": "2.01E+12",
+        "Date": "2021-11-10",
+        "MaxTemperature": 12.4,
+        "MinTemperature": 7.7,
+        "TotalPrecipitation": 2.2,
+        "MaxWindSpeed": 10.9,
+        "SolarRadiation": 3.1,
+        "DayLengthHours": 8.85
     },
     {
         "AccidentIndex": "2.01E+12",
