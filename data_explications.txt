@@ -7,3 +7,8 @@ Les données météréologiques ont été prises
 à l'aide de l'API de open méteo data: https://archive-api.open-meteo.com/v1/era5
 
 
+
+Les données Kaggle avaient des index écrits en notation scientifique nous les avons 
+changé pour des index uuid
+
+
