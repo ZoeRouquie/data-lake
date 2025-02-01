@@ -3,8 +3,13 @@ données kaggle :
 https://www.kaggle.com/datasets/nextmillionaire/car-accident-dataset
 
 
+"Accident_Severity": "Slight": 1, "Serious": 2, "Fetal": 3, "Fatal": 3
+Urban = 1 Rural =0
+
 Les données météréologiques ont été prises 
 à l'aide de l'API de open méteo data: https://archive-api.open-meteo.com/v1/era5
+On a recupéré la longitude, la latitude et le jour de chaque donnée, et retourné
+ grace a cette API les conditions météréologiques moyennes. 
 
 
 
