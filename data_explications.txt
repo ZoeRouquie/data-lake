@@ -1,3 +1,6 @@
+Accidents de voiture au Royaume Uni en 2021 et 2022
+
+
 albedo forecast = taux de réflection du soleil 
 données kaggle : 
 https://www.kaggle.com/datasets/nextmillionaire/car-accident-dataset
@@ -6,13 +9,7 @@ https://www.kaggle.com/datasets/nextmillionaire/car-accident-dataset
 "Accident_Severity": "Slight": 1, "Serious": 2, "Fetal": 3, "Fatal": 3
 Urban = 1 Rural =0
 
-Cluster de region: 
-0  Smockington Lane, Wolvey Heath, Wolvey CP, Rugby, Warwickshire, England, LE10 3HX, United Kingdom
-1  Centre Point Tower, 101-103, New Oxford Street, Saint Giles, Bloomsbury, London Borough of Camden, London, Greater London, England, WC1A 1DB, United Kingdom
-2  Eaton Square, Belgravia, London, Greater London, England, SW1W 9DH, United Kingdom
-3  Du Boisson Dance Studios, 25, Bulwer Street, Shepherd's Bush, London Borough of Hammersmith and Fulham, London, Greater London, England, W12 7BF, United Kingdom
-4   Croydon Village Outlet, 2, North End, Broad Green, London Borough of Croydon, London, Greater London, England, CR0 1UB, United Kingdom
--1 outliers
+
 
 Les données météréologiques ont été prises 
 à l'aide de l'API de open méteo data: https://archive-api.open-meteo.com/v1/era5
