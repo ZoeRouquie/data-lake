@@ -1,0 +1,18 @@
+Notre projet repose sur deux sources de données, 
+l'une recense les accidents de voiture ayant eu lieu au Royaume-Uni en 2021 et 2022
+(data formatage/Accident/Road Accident Data.csv)
+et l'autre se base sur les positions géographiques et la date des accidents 
+et ajoute les données météorologiques de chaque accident
+(data formatage/Weather/weather_data2.json)
+
+Dans le dossier 'formatage data', se trouve les deux sources de données ainsi que:
+Dans le dossier 'Accident', le code qui permet de reformater les données originales
+de Kaggle, et 
+dans le dossier 'Weather' vous trouverez les requêtes vers l'API Open Data Meteo.
+
+Dans le dossier 'data fusion', se situent le code de fusion des deux bases ainsi 
+que le  fichier csv 'fusion.csv' qui en est issu.
+
+Enfin dans le dossier 'analyse', vous trouverez tout d'abord les données reformatées 
+pour qu'elles soient propices à une régression ainsi que le code qui permet ce 
+reformatage. Puis le code d'analyse des données. 

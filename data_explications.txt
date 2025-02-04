@@ -1,24 +1,18 @@
-Accidents de voiture au Royaume Uni en 2021 et 2022
-
-
-albedo forecast = taux de réflection du soleil 
-données kaggle : 
+- Les données Road Accident Data ont été prises sur Kaggle:
+Ces données concernent les accidents de voiture au Royaume Uni en 2021 et 2022:
 https://www.kaggle.com/datasets/nextmillionaire/car-accident-dataset
 
 
-"Accident_Severity": "Slight": 1, "Serious": 2, "Fetal": 3, "Fatal": 3
-Urban = 1 Rural =0
+- Les données météorologiques ont été prises 
+à l'aide de l'API d'open méteo data: https://archive-api.open-meteo.com/v1/era5
+En envoyant la longitude, la latitude et le jour de chaque donnée, on a réussi à avoir
+à partir de requêtes à l'API (weather-data-extraction.ipynb) les conditions météréologiques moyennes. 
 
 
+Changements apportés aux données:
 
-Les données météréologiques ont été prises 
-à l'aide de l'API de open méteo data: https://archive-api.open-meteo.com/v1/era5
-On a recupéré la longitude, la latitude et le jour de chaque donnée, et retourné
- grace a cette API les conditions météréologiques moyennes. 
-
-
-
-Les données Kaggle avaient des index écrits en notation scientifique nous les avons 
-changées pour des index uuid
+Les données Kaggle avaient des index écrits en notation scientifique et que nous avons
+dû changés par soucis d'unicité des index (les index écrits sous forme de
+ notations scientifiques étaient les mêmes pour beaucoup d'accidents).
 
 
