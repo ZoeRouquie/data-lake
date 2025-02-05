@@ -15,5 +15,8 @@ Les données Kaggle avaient des index écrits en notation scientifique et que no
 dû changés par soucis d'unicité des index (les index écrits sous forme de
  notations scientifiques étaient les mêmes pour beaucoup d'accidents).
 
-
+Gravité:
+1 = slight
+2 = serious
+3 = fatal
 
